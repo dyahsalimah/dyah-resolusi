@@ -1,5 +1,9 @@
 rencana konten dyah
 -belajar js
    * framework js
+      ^ Vue
+      ^ React
    * Fundamental Data aDasar
 -mobile programming
+  * Android
+  Phyton
