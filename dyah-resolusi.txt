@@ -1,3 +1,5 @@
 Resolusi
 - Konsisten coding
 - Membuat platform utk alur bisnis tertentu
+- Buat laporan rutin
+- Bekerja dg teknologi baru
