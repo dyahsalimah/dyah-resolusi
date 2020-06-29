@@ -2,4 +2,6 @@ rencana konten dyah
 -belajar js
    * framework js
    * Fundamental Data aDasar
--mobile programming
+      ^ Angular
+      ^ react
+
